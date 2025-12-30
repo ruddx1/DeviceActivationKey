@@ -6,7 +6,7 @@
         "Allowoffline": true
     },
     {
-        "device_id": "615bd9df0be91736",
+        "device_id": "615bd9df91736",
         "key": "digratisikopi",
         "expirydate": "31-12-2025",
         "Allowoffline": true
@@ -16,5 +16,11 @@
         "key": "rudikey",
         "expirydate": "30-12-2026",
         "Allowoffline": true
-    }
+    },
+    {
+        "device_id": "615bd9df0be91736",
+        "key": "digartisikopi",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    
 ]
