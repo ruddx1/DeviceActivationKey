@@ -1,26 +1,16 @@
 [
     {
-        "device_id": "device",
-        "key": "rudi",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "615bd9df91736",
-        "key": "digratisikopi",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-       {
         "device_id": "938f2019086f1d33",
-        "key": "rud2026",
-        "expirydate": "30-12-2026",
+        "username": "Admin",
+        "password": "rudi",
+        "expirydate": "31-12-2027",
         "Allowoffline": true
     },
     {
-        "device_id": "96a2476ce68e69cd",
-        "key": "gopartner",
-        "expirydate": "30-01-2026",
-        "Allowoffline": true
-    },
+        "device_id": "device456",
+        "username": "user2",
+        "password": "pass456",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    }
 ]
