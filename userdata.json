@@ -27,5 +27,13 @@
         "password": "cahaya88",
         "expirydate": "30-01-2026",
         "Allowoffline": true
+    },
+    
+    {
+        "device_id": "dd5a90b0d3d7b8bb",
+        "username": "hari",
+        "password": "grab",
+        "expirydate": "30-02-2026",
+        "Allowoffline": true
     }
 ]
